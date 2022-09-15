@@ -52,4 +52,4 @@
 
 ## Contacts
 
-mikhail.gasanov[a]skoltech.ru
+gasanov.msu[a]ya.ru
